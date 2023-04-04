@@ -1,4 +1,4 @@
-package com.yashwanth.DataStructuresAndAlgorithms.Intervals;
+package com.yashwanth.DataStructuresAndAlgorithms.Intervals.InsertInterval;
 
 import java.util.ArrayList;
 import java.util.List;
